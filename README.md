@@ -1,9 +1,9 @@
 # 100Devs-API
 This 100Devs class materials API is a work in progress that allows you to access class materials from the second cohort (2022).
 
-[**Link to project:**](https://api-100devs-classes.herokuapp.com/)
+[**Link to project**](https://api-100devs-classes.herokuapp.com/)
 
-![image of site](http://placecorgi.com/1200/650)
+![image of site](https://github.com/wo1vin/100Devs-API/blob/main/img.png?raw=true)
 
 ## How It's Made:
 
